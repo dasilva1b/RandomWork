@@ -57,3 +57,4 @@ for a in respuesta:
   temp="'"+a+"' "
   f.write(temp)
 f.close()
+data.close()
